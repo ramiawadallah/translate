@@ -6,3 +6,9 @@
 Mini multi-language application based on Laravel to help and explain this part for beginner developer, for how can make multi-language application with small helper function to return data and rendering view design to shortnes coding 
 
 
+## How can use it
+
+1- Download or clone it the app 
+2- Run composer install 
+3- Conect to the database 
+ 
