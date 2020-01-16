@@ -11,6 +11,28 @@ Mini multi-language application based on Laravel to help and explain this part f
 <ul>
 	<li>Download or clone it the app</li>
 	<li>Run composer install</li>
+	<li>Run php artisan key:generate</li>
 	<li>Conect to the database</li>
+	<li>Run php artisan migrate migrate</li>
+	<li>
+		Replace this line code from composer.jeson<br> 
+
+		"autoload": {
+	        "psr-4": {
+	            "App\\": "app/"
+	        },
+	        "files":[
+	            "app/Helpers/Helper.php",
+	            "app/Helpers/beForm.php"
+	        ],
+	        "classmap": [
+	            "database/seeds",
+	            "database/factories"
+	        ]
+	    },
+	</li>
+	<li>Run composer dump-autoload</li>
 </ul>
+
+
  
