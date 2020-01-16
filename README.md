@@ -14,8 +14,7 @@ Mini multi-language application based on Laravel to help and explain this part f
 	<li>Run php artisan key:generate</li>
 	<li>Conect to the database</li>
 	<li>Run php artisan migrate migrate</li>
-	<li>
-		Replace this line code from composer.jeson<br> 
+	<li>Replace this line code from composer.jeson<br> 
 
 		"autoload": {
 	        "psr-4": {
@@ -30,7 +29,8 @@ Mini multi-language application based on Laravel to help and explain this part f
 	            "database/factories"
 	        ]
 	    },
-	</li>
+	    
+</li>
 	<li>Run composer dump-autoload</li>
 </ul>
 
