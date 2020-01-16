@@ -29,9 +29,10 @@ Mini multi-language application based on Laravel to help and explain this part f
 	            "database/factories"
 	        ]
 	    },
-	    
+
 </li>
 	<li>Run composer dump-autoload</li>
+	<li>go php artisan serve</li>
 </ul>
 
 
