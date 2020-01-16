@@ -8,7 +8,7 @@ Mini multi-language application based on Laravel to help and explain this part f
 
 ## How can use it
 
-1- Download or clone it the app 
-2- Run composer install 
-3- Conect to the database 
+<p>1- Download or clone it the app </p>
+<p>2- Run composer install </p>
+<p>3- Conect to the database </p>
  
